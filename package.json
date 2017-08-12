@@ -1,8 +1,8 @@
 {
-    "name": "casper",
-    "description": "The default personal blogging theme for Ghost. Beautiful, minimal and responsive.",
-    "demo": "https://demo.ghost.io",
-    "version": "2.0.2",
+    "name": "FirePress_Klimax2",
+    "description": "Firepress Klimax is default theme used at FirePress. All details > https://github.com/firepress-org/FirePress_Klimax2",
+    "demo": "http://firepress.org",
+    "version": "2.0.2-01",
     "engines": {
         "ghost": ">=1.0.0"
     },
