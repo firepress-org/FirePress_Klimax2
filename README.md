@@ -20,13 +20,10 @@ It follows updates (2.0.2 - [double check here](https://github.com/TryGhost/Casp
 
 - Table/grid (https://github.com/zachacole/Simple-Grid)
 - Icons ( via Font Awesome v4.7.0)
+- Buttons (https://github.com/alexwolfe/Buttons/)
 - Bootstrap v4.0.0-alpha.6
 - Code Syntax (9.12.0/highlight.min.js)
 - plyr.js https://github.com/sampotts/plyr
-
-### Deprecated
-
-- Buttons (https://github.com/alexwolfe/Buttons/)
 
 #### Screenshots
 
