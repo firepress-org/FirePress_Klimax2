@@ -13,7 +13,7 @@ It follows updates (2.0.2 - [double check here](https://github.com/TryGhost/Casp
 ### Features: 
 
 - Table/grid (https://github.com/zachacole/Simple-Grid)
-- Icons ( via font-awesome 4)
+- Icons ( via Font Awesome v4.7.0)
 - Buttons (https://github.com/alexwolfe/Buttons/)
 - Code Syntax (9.12.0/highlight.min.js)
 
