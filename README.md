@@ -1,6 +1,12 @@
 ## FirePress Klimax2
 
-This theme is under heavy development. 
+https://github.com/firepress-org/FirePress_Klimax2
+
+### Demo
+
+http://play-with-ghost.com/
+
+### What is this
 
 Our theme **FirePress Klimax2** is an enhanced version of the original [Casper 2 theme](https://github.com/TryGhost/Casper/tree/2.0.2) made by the Ghost foundation. The goal is to make a drop-in replacement of the original Casper theme. 
 
@@ -16,6 +22,7 @@ It follows updates (2.0.2 - [double check here](https://github.com/TryGhost/Casp
 - Icons ( via Font Awesome v4.7.0)
 - Buttons (https://github.com/alexwolfe/Buttons/)
 - Code Syntax (9.12.0/highlight.min.js)
+- plyr.js https://github.com/sampotts/plyr
 
 #### Screenshots
 
@@ -32,4 +39,4 @@ wip
 
 ### Copyright & License
 
-Copyright (c) 2013-2017 Ghost Foundation - Released under the [MIT license](LICENSE).
+Released under the [MIT license](LICENSE).
