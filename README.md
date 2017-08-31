@@ -37,7 +37,7 @@ I’m tracking them under the project [play-with-ghost.com](http://play-with-gho
 
 ![klimax2-montage](https://user-images.githubusercontent.com/6694151/29440322-cf76a16a-8391-11e7-9353-2a98da5e2edb.jpg)
 
-## Repo URL
+## Github repo
 https://github.com/firepress-org/FirePress_Klimax2
 
 ## Contributing
