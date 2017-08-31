@@ -1,15 +1,15 @@
 ## Demo
 
-Try it via http://play-with-ghost.com/. 
-play-with-ghost is place to see and to try Ghost. No sign-up required!
+Try it via [play-with-ghost.com](http://play-with-ghost.com/)
+play-with-ghost is place to see and to try Ghost. No sign-up required! Just play with it!
 
 ## FirePress Klimax2
 
-Our theme **FirePress Klimax2** is an enhanced version of the original [Casper 2 theme](https://github.com/TryGhost/Casper/tree/2.0.2) made by the Ghost foundation. The goal is to make a drop-in replacement of the original Casper theme. 
+Our theme **FirePress Klimax2** is an enhanced version of the original [Casper 2 theme](https://github.com/TryGhost/Casper/tree/2.10.0) made by the Ghost foundation. The goal is to make a drop-in replacement of the original Casper theme. 
 
 The **version** number [can be found in the package.json](https://github.com/firepress-org/FirePress_Klimax/blob/master/package.json#L5)
 
-It follows updates (2.0.2 - [double check here](https://github.com/TryGhost/Casper/blob/master/package.json#L5)) has we want to keep best practice and new feature made by the original Casper theme.
+It [follows updates](https://github.com/TryGhost/Casper/blob/master/package.json#L5)) has we want to keep best practice and new feature made by the original Casper theme.
 
 ## Assets
 
@@ -23,12 +23,15 @@ The **assets** are all the elements that were needed to create the website.
 - Infographic file (Keynote, pdd files)
 - Backup files (json)
 
-## Features: 
+## Features
 
 - Table/grid (https://github.com/zachacole/Simple-Grid)
 - Icons ( via Font Awesome v4.7.0)
 - Buttons (https://github.com/alexwolfe/Buttons/)
 - Code Syntax (9.12.0/highlight.min.js)
+
+## New Features
+I’m tracking them under the project [play-with-ghost.com](http://play-with-ghost.com/) over the [issue section](https://github.com/pascalandy/play-with-ghost/labels/theme%2FFirePress_Klimax2).
 
 ## Preview
 
