@@ -2,7 +2,7 @@
     "name": "FirePress_Klimax2",
     "description": "Firepress Klimax is default theme used at FirePress. All details > https://github.com/firepress-org/FirePress_Klimax2",
     "demo": "http://firepress.org",
-    "version": "2.1.4A",
+    "version": "2.1.5A",
     "engines": {
         "ghost": ">=1.2.0"
     },
