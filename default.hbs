@@ -14,30 +14,24 @@
     {{!-- Styles'n'Scripts --}}
     <link rel="stylesheet" type="text/css" href="{{asset "built/screen.css"}}" />
 
-	{{!-- CSS Buttons (unicorn-ui) by_pascalandy --}}
-    <link rel="stylesheet" type="text/css" href="{{asset "css_firepress/css_unicorn/buttons.css"}}" />
 
-	{{!-- Bootstrap 4.0.0-alpha.6 by_pascalandy	
-    <link rel="stylesheet" type="text/css" href="{{asset "bootstrap4/bootstrap.min.css"}}" />
-    --}}
+    <!-- Custom section by Pascal Andy | START -->
 
-	{{!-- CSS Grid and Tables by_pascalandy --}}
-    <link rel="stylesheet" type="text/css" href="{{asset "css_firepress/css_simplegrid/simplegrid.min.css"}}" />
-	
-	{{!-- CSS Icon via http://fontawesome.io/icons/ by_pascalandy --}}	
-    <script src="https://use.fontawesome.com/ed7e9e22f4.js"></script>
+	<!-- mybtn https://bulma.io/documentation/elements/button/ -->
+    <link rel="stylesheet" type="text/css" href="{{asset "css_firepress/bulma-mybtn-min.css"}}" />
 
-	{{!-- CSS Icon via https://github.com/sampotts/plyr by_pascalandy 
-    <div data-type="youtube" data-video-id="bTqVqk7FSmY"></div>
-    <link rel="stylesheet" href="https://cdn.plyr.io/2.0.13/plyr.css">
-    --}}
-	
-	{{!-- CSS Code Syntax (highlight agate) by_pascalandy 
-	Line number is not supported > http://highlightjs.readthedocs.io/en/latest/line-numbers.html --}}
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/agate.min.css">
+    <!-- Grid, mainly used for pricing tables http://thisisdallas.github.io/Simple-Grid/ -->
+    <link rel="stylesheet" type="text/css" href="{{asset "css_firepress/simplegrid-min.css"}}" />
+
+	<!-- Font Awesome -->
+	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+
+	<!-- CSS Code Syntax (highlight agate) 
+	Line number is not supported > http://highlightjs.readthedocs.io/en/latest/line-numbers.html -->
+	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/agate.min.css" />
 
 	<style>  
-	  pre {
+		pre {
 		word-wrap: normal;
 		-moz-hyphens: none;
 		-ms-hyphens: none;
@@ -47,14 +41,16 @@
 		line-height: 1.4em;
 		padding-top: 0.5em;
 		padding-bottom: 0.5em;
-	  }
+		}
 		pre code, pre tt {
 		white-space: pre;
-	  }
+		}
 	</style>
-		
-    {{!-- This tag outputs SEO meta+structured data and other important settings --}}
-    {{ghost_head}}
+
+    <!-- Custom section by Pascal Andy | END -->
+
+	{{!-- This tag outputs SEO meta+structured data and other important settings --}}
+	{{ghost_head}}
 
 </head>
 <body class="{{body_class}}">
@@ -72,7 +68,6 @@
                     <a href="{{@blog.url}}">Latest Posts</a>
                     {{#if @blog.facebook}}<a href="{{facebook_url @blog.facebook}}" target="_blank" rel="noopener">Facebook</a>{{/if}}
                     {{#if @blog.twitter}}<a href="{{twitter_url @blog.twitter}}" target="_blank" rel="noopener">Twitter</a>{{/if}}
-                    <a href="http://play-with-ghost.com/" target="_blank" rel="noopener">Play With Ghost</a>
                 </nav>
             </div>
         </footer>
@@ -115,17 +110,14 @@
     {{!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag --}}
     {{ghost_foot}}
 
-    {{!-- Code Syntax https://github.com/sampotts/plyr by_pascalandy
-    <script src="https://cdn.plyr.io/2.0.13/plyr.js"></script>
-    --}}
 
-	{{!-- Code Syntax (highlight) by_pascalandy --}}
+    <!-- Custom section by Pascal Andy | START -->
+
+	<!-- Code Syntax (highlight) -->
 	<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
 	<script>hljs.initHighlightingOnLoad();</script>
 
-    {{!-- Bootstrap 4.0.0-alpha.6 by_pascalandy
-    <script type="text/javascript" src="{{asset "bootstrap4/bootstrap.min.js"}}"></script>
-    --}}
-    
+    <!-- Custom section by Pascal Andy | END -->
+
 </body>
 </html>
