@@ -984,7 +984,7 @@ body {
 .post-full-header {
     max-width: 1040px;
     margin: 0 auto;
-    padding: 6vw 3vw 3vw;
+    padding: 5vw 3vw 5vw;
     text-align: center
 }
 
@@ -1235,7 +1235,11 @@ body {
     padding: 0;
     font-size: inherit;
     line-height: inherit;
-    background: transparent
+    background: transparent;
+}
+ 
+.post-full-content pre code * {
+    color: inherit;
 }
 
 .post-full-content .fluid-width-video-wrapper {
