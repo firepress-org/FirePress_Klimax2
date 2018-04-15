@@ -26,6 +26,12 @@ https://trello.com/b/0fCwwzqc/firepress-public-roadmap
 
 ---
 
+# 2.1.10D — — — — — — — — — —
+
+**🐛 Bugs**
+
+fix a typo in package.json
+
 # 2.1.10C — — — — — — — — — —
 
 **🚀 Major feature**
