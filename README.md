@@ -16,6 +16,8 @@
 
 **Curated** — It’s one a the few themes that pass the « IT’S A GO » test. See the curated collection [I maintain here](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go).
 
+**Compatibility** — This theme will work on [Ghost](https://ghost.org/) >= **1.0**.
+
 ## Screenshots
 
 🙈 I’m aware this README needs **more love**. Time is the biggest challenge here. Feel free to [buzz me on Twitter ](https://twitter.com/askpascalandy) if you have any questions or comments.
