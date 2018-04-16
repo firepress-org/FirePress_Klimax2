@@ -4,7 +4,7 @@
 
 **Live Demo** — See this theme in action (wip).
 
-**Enhancements** — This theme is an enhanced version of the Casper theme made by the Ghost foundation. Here are the features you can expect:
+**Enhancements** — This theme is an enhanced version of the theme **Casper** made by the Ghost foundation. Here are the features I added:
 
 - **Icons** (Font Awesome 5)
 - Juicy **buttons**
