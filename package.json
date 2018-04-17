@@ -2,7 +2,7 @@
     "name": "FirePress_Klimax2",
     "description": "FirePress_Klimax2 is a theme supported by FirePress. All details can be found at https://github.com/firepress-org/FirePress_Klimax2",
     "demo": "https://play-with-ghost.com/",
-    "version": "2.1.10E",
+    "version": "2.1.10F",
     "engines": {
         "ghost": ">=1.2.0"
     },
