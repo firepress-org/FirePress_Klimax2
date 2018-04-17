@@ -26,6 +26,25 @@ https://trello.com/b/0fCwwzqc/firepress-public-roadmap
 
 ---
 
+# 2.1.10F — — — — — — — — — —
+  
+**⚡️ Minor Feature**
+
+- Completly re-write of the README
+
+# 2.1.10F — — — — — — — — — —
+  
+**⚡️ Minor Feature**
+
+- minify screen-min.css
+
+# 2.1.10D — — — — — — — — — —
+
+**⚡️ Minor Feature**
+
+- minify screen.css
+
+
 # 2.1.10D — — — — — — — — — —
 
 **⚡️ Minor Feature**
