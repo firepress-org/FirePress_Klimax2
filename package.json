@@ -1,6 +1,6 @@
 {
     "name": "FirePress_Klimax2",
-    "description": "FirePress_Klimax2 is a theme supported by FirePress. All details can be found at https://github.com/firepress-org/FirePress_Klimax2",
+    "description": "FirePress_Klimax2 is a Ghost theme supported by FirePress. It's part of the Ghost-Theme-Curated-Collection. Find it at https://bit.ly/2HB6Fyu",
     "demo": "https://play-with-ghost.com/",
     "version": "2.1.10F",
     "engines": {
@@ -25,14 +25,14 @@
     },
     "keywords": [
         "ghost",
-        "theme"
+        "theme",
+        "responsive"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/firepress-org/FirePress_Klimax2"
+        "url": "https://github.com/firepress-org/FirePress_Klimax2.git"
     },
     "bugs": "https://github.com/firepress-org/FirePress_Klimax2/issues",
-    "contributors": "https://github.com/firepress-org/FirePress_Klimax2/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
         "cssnano": "3.7.1",
