@@ -1,66 +1,81 @@
-# Casper
-
-The default theme for [Ghost](http://github.com/tryghost/ghost/). This is the latest development version of Casper. If you're just looking to download the latest release, head over to the [releases](https://github.com/TryGhost/Casper/releases) page.
-
-&nbsp;
-
-![screenshot-desktop](https://user-images.githubusercontent.com/120485/27221326-1e31d326-5280-11e7-866d-82d550a7683b.jpg)
-
-&nbsp;
-
-# First time using a Ghost theme?
-
-Ghost uses a simple templating language called [Handlebars](http://handlebarsjs.com/) for its themes.
-
-We've documented our default theme pretty heavily so that it should be fairly easy to work out what's going on just by reading the code and the comments. Once you feel comfortable with how everything works, we also have full [theme API documentation](https://themes.ghost.org) which explains every possible Handlebars helper and template.
-
-**The main files are:**
-
-- `default.hbs` - The main template file
-- `index.hbs` - Used for the home page
-- `post.hbs` - Used for individual posts
-- `page.hbs` - Used for individual pages
-- `tag.hbs` - Used for tag archives
-- `author.hbs` - Used for author archives
-
-One really neat trick is that you can also create custom one-off templates just by adding the slug of a page to a template file. For example:
-
-- `page-about.hbs` - Custom template for the `/about/` page
-- `tag-news.hbs` - Custom template for `/tag/news/` archive
-- `author-ali.hbs` - Custom template for `/author/ali/` archive
+# FirePress_Klimax2
 
 
-# Development
+## What is this?
 
-Casper styles are compiled using Gulp/PostCSS to polyfill future CSS spec. You'll need Node and Gulp installed globally. After that, from the theme's root directory:
+**FirePress_Klimax2** is a free and responsive Ghost theme (*a template if you prefer*) made for [Ghost](https://ghost.org/). 
 
-```bash
-$ yarn install
-$ yarn dev
-```
+**Compatibility** — The Ghost’s engine must be: `Ghost >= 2.0.0`.
 
-Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/` automatically.
+**What is Ghost?** — Ghost is an open source software that lets you create your website with a blog. See the [FAQ section](https://play-with-ghost.com/ghost-themes/faq/#what-is-ghost) for more details.
 
-The `zip` Gulp task packages the theme files into `dist/<theme-name>.zip`, which you can then upload to your site.
+##  Live Demo (online)
 
-```bash
-$ yarn zip
-```
+Head over to [play-with-ghost.com](https://play-with-ghost.com/) . It’s is a playground to learn about Ghost. You can see Ghost themes and login into the **admin panel** by using the available credentials. In short, you can try Ghost on the spot without having to sign-up!
 
-# PostCSS Features Used
+Since August 24th 2018, you can try **Ghost version 2** here:<br>
+https://play-with-ghost.com/ghost-themes/firepress-vapor-for-barbershops/
 
-- Autoprefixer - Don't worry about writing browser prefixes of any kind, it's all done automatically with support for the latest 2 major versions of every browser.
-- Variables - Simple pure CSS variables
-- [Color Function](https://github.com/postcss/postcss-color-function)
+## Screenshots
+
+![firepress_klimax2_10](https://user-images.githubusercontent.com/6694151/45888951-44604b80-bd8d-11e8-9b8a-6fd8dd6052b8.jpg)
+![firepress_klimax2_11](https://user-images.githubusercontent.com/6694151/45888952-44604b80-bd8d-11e8-9845-68627d6dc573.jpg)
+![Uploading FirePress_Klimax2_12.jpg…]()
 
 
-# SVG Icons
+## Why fork this Ghost Theme ?
 
-Casper uses inline SVG icons, included via Handlebars partials. You can find all icons inside `/partials/icons`. To use an icon just include the name of the relevant file, eg. To include the SVG icon in `/partials/icons/rss.hbs` - use `{{> "icons/rss"}}`.
+**Enhancements** — This theme has been enhanced to feature some elements that are not present in the original code. IMHO, these are essential enhancements that are hard to live without:
 
-You can add your own SVG icons in the same manner.
+- **Buttons** (unicorn UI)
+- **Icons** (Font Awesome 5)
+- **Code Syntax** (highlight.js) 
+- **Grid** (great to make pricing table)
+
+**Drop-in replacement** — No special tweaks to do. It will work out of the box.
+
+**Code Injection** — Take a look those snippets in this [Git repo](https://github.com/firepress-org/Code-Injection-Ghost). It’s an easy way to customize your theme.
+
+**Curated** — This theme was carefully selected out of hundreds of Ghost Themes. See more of them in our [Ghost-Theme-Curated-Collection ](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go).
 
 
-# Copyright & License
+## Contributing
 
-Copyright (c) 2013-2018 Ghost Foundation - Released under the [MIT license](LICENSE).
+Thanks to the power of communities, this is where `1 + 1 = 3`.
+
+1. Fork it
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -am 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request
+
+## Sources & Fork
+
+- This Git repo is available at https://github.com/firepress-org/FirePress_Klimax2
+- This project was forked from https://github.com/TryGhost/Casper
+
+## License
+
+- For this software, view **MIT** license information at https://ghost.org/license/
+- For the fork, view the **GNU** license information at https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE
+
+
+## FirePress Hosting
+
+**At FirePress we do one thing and we do it with our whole heart: we host fully managed Ghost’s websites**. The idea behind FirePress is to empower freelancers and small organizations to be able to build an outstanding mobile-first website. Start your [free trial here](https://play-with-ghost.com/ghost-themes/free-10-day-trial/).
+
+We also offer a **workshop** where participants ends up with a website/blog they can easily operate themselves. Details are coming soon. It is available in those cities:
+
+- Montréal - Canada
+- Toronto - Canada
+- New-York - USA
+- Québec City - Canada
+
+Because we believe your website should speak up in your name, we consider our mission completed once your site has become [your impresario](https://play-with-ghost.com/ghost-themes/why-launching-your-next-website-with-firepress/).
+
+
+## Keep in touch
+
+- [Pascal Andy’s « now page »](https://pascalandy.com/blog/now/)
+- Follow me on [Twitter](https://twitter.com/askpascalandy)
+- Find more Ghost Themes on [play-with-ghost.com](https://play-with-ghost.com/)
