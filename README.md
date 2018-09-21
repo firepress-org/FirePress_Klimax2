@@ -20,7 +20,7 @@ https://play-with-ghost.com/ghost-themes/firepress-vapor-for-barbershops/
 
 ![firepress_klimax2_10](https://user-images.githubusercontent.com/6694151/45888951-44604b80-bd8d-11e8-9b8a-6fd8dd6052b8.jpg)
 ![firepress_klimax2_11](https://user-images.githubusercontent.com/6694151/45888952-44604b80-bd8d-11e8-9845-68627d6dc573.jpg)
-![Uploading FirePress_Klimax2_12.jpg…]()
+![firepress_klimax2_12](https://user-images.githubusercontent.com/6694151/45889214-d9fbdb00-bd8d-11e8-8c4f-540c03a0d5b1.jpg)
 
 
 ## Why fork this Ghost Theme ?
