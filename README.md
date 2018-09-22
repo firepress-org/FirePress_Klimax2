@@ -8,7 +8,7 @@
 - **What is Ghost?** — Ghost is an open source software that lets you create your website with a blog. See the [FAQ section](https://play-with-ghost.com/ghost-themes/faq/#what-is-ghost) for more details.
 
 
-##  Live Demo
+## Live Demo
 
 **play-with-ghost.com** is a playground to learn about Ghost. You can **see** Ghost themes and **login** into the admin panel by using the available credentials. In short, you can try Ghost on the spot without having to sign-up!
 
