@@ -3,8 +3,8 @@
 
 ## What is this?
 
-- **FirePress_Klimax2** — It’s a free and responsive Ghost theme (*a template if you prefer*) made for [Ghost](https://ghost.org/). 
-- **Compatibility** — This theme works on `>= 2.0.0`.
+- **FirePress_Klimax2** — It’s a free and responsive Ghost theme (*a template if you prefer*) made for Ghost.
+- **Compatibility** — This theme works on Ghost `>= 2.0.0`.
 - **What is Ghost?** — Ghost is an open source software that lets you create your website with a blog. See the [FAQ section](https://play-with-ghost.com/ghost-themes/faq/#what-is-ghost) for more details.
 
 
