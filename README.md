@@ -11,10 +11,11 @@
 
 ##  Live Demo (online)
 
-Head over to [play-with-ghost.com](https://play-with-ghost.com/) . It’s is a playground to learn about Ghost. You can see Ghost themes and login into the **admin panel** by using the available credentials. In short, you can try Ghost on the spot without having to sign-up!
+play-with-ghost.com is a playground to learn about Ghost. You can see Ghost themes and login into the **admin panel** by using the available credentials. In short, you can try Ghost on the spot without having to sign-up!
 
-Since August 24th 2018, you can try **Ghost version 2** here:<br>
-https://play-with-ghost.com/ghost-themes/firepress-vapor-for-barbershops/
+- **Live Demo** — https://play-with-ghost.com/live-demo-firepress-klimax2-for-barbershops/
+- **Admin Panel** — https://play-with-ghost.com/live-demo-firepress-klimax2-for-barbershops/ghost/
+- **Find the credits to log in the admin panel** — https://play-with-ghost.com/ghost-themes/firepress-klimax2-for-barbershops/
 
 ## Screenshots
 
