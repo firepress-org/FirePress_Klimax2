@@ -3,11 +3,10 @@
 
 ## What is this?
 
-**FirePress_Klimax2** is a free and responsive Ghost theme (*a template if you prefer*) made for [Ghost](https://ghost.org/). 
+- **FirePress_Klimax2** — It’s a free and responsive Ghost theme (*a template if you prefer*) made for [Ghost](https://ghost.org/). 
+- **Compatibility** — This theme works on `>= 2.0.0`.
+- **What is Ghost?** — Ghost is an open source software that lets you create your website with a blog. See the [FAQ section](https://play-with-ghost.com/ghost-themes/faq/#what-is-ghost) for more details.
 
-**Compatibility** — This theme works on `>= 2.0.0`.
-
-**What is Ghost?** — Ghost is an open source software that lets you create your website with a blog. See the [FAQ section](https://play-with-ghost.com/ghost-themes/faq/#what-is-ghost) for more details.
 
 ##  Live Demo
 
@@ -16,6 +15,7 @@
 - **Live Demo** ==> https://play-with-ghost.com/live-demo-firepress-klimax2-for-barbershops/
 - **Admin Panel** ==> https://play-with-ghost.com/live-demo-firepress-klimax2-for-barbershops/ghost/
 - Use these **credits to log in** ==> https://play-with-ghost.com/ghost-themes/firepress-klimax2-for-barbershops/
+
 
 ## Screenshots
 
@@ -31,20 +31,17 @@
 
 <br>
 
+
 ## Why fork this Ghost Theme ?
 
-**Enhancements** — This theme has been enhanced to feature some elements that are not present in the original theme. IMHO, these are essential enhancements that are hard to live without:
-
-- **Buttons** (unicorn UI)
-- **Icons** (Font Awesome 5)
-- **Code Syntax** (highlight.js) 
-- **Grid** (great to make pricing table)
-
-**Drop-in replacement** — No special tweaks to do. It will work out of the box.
-
-**Code Injection** — Take a look those snippets in this [Git repo](https://github.com/firepress-org/Code-Injection-Ghost). It’s an easy way to customize your theme.
-
-**Curated** — This theme was carefully selected out of hundreds of Ghost Themes. See more of them in our [Ghost-Theme-Curated-Collection ](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go).
+- **Enhancements** — This theme has been enhanced to feature some elements that are not present in the original theme. IMHO, these are essential enhancements that are hard to live without:
+	- **Buttons** (unicorn UI)
+	- **Icons** (Font Awesome 5)
+	- **Code Syntax** (highlight.js) 
+	- **Grid** (great to make pricing table)
+- **Drop-in replacement** — No special tweaks to do. It will work out of the box.
+- **Code Injection** — Take a look those snippets in this [Git repo](https://github.com/firepress-org/Code-Injection-Ghost). It’s an easy way to customize your theme.
+- **Curated** — This theme was carefully selected out of hundreds of Ghost Themes. See more of them in our [Ghost-Theme-Curated-Collection ](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go).
 
 
 ## Contributing
@@ -57,10 +54,12 @@ Thanks to the power of communities, this is where `1 + 1 = 3`.
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request
 
+
 ## Sources & Fork
 
 - This Git repo is available at https://github.com/firepress-org/FirePress_Klimax2
 - This project was forked from https://github.com/TryGhost/Casper
+
 
 ## License
 
@@ -72,7 +71,7 @@ Thanks to the power of communities, this is where `1 + 1 = 3`.
 
 **At FirePress we do one thing and we do it with our whole heart: we host fully managed Ghost’s websites**. The idea behind FirePress is to empower freelancers and small organizations to be able to build an outstanding mobile-first website. Start your [free trial here](https://play-with-ghost.com/ghost-themes/free-10-day-trial/).
 
-We also offer a **workshop** where participants ends up with a website/blog they can easily operate themselves. Details are coming soon. It is available in those cities:
+We offer **workshops** where participants ends up with a website/blog they can easily operate themselves. Details are coming soon. It is available in those cities:
 
 - Montréal - Canada
 - Toronto - Canada
@@ -84,6 +83,6 @@ Because we believe your website should speak up in your name, we consider our mi
 
 ## Keep in touch
 
-- [Pascal Andy’s « now page »](https://pascalandy.com/blog/now/)
+- Pascal Andy’s [« now page »](https://pascalandy.com/blog/now/)
 - Follow me on [Twitter](https://twitter.com/askpascalandy)
 - Find more Ghost Themes on [play-with-ghost.com](https://play-with-ghost.com/)
