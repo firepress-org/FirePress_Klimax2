@@ -62,20 +62,20 @@ Thanks to the power of communities, this is where `1 + 1 = 3`.
 
 ## License
 
-- For this software, view **MIT** license information at https://ghost.org/license/
-- For the fork, view the **GNU** license information at https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE
+- This software is under the **MIT** license. Information at https://ghost.org/license/
+- This fork is under the **GNU** license. Information at https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE
 
 
 ## FirePress Hosting
 
-**At FirePress we do one thing and we do it with our whole heart: we host fully managed Ghost’s websites**. The idea behind FirePress is to empower freelancers and small organizations to be able to build an outstanding mobile-first website. Start your [free trial here](https://play-with-ghost.com/ghost-themes/free-10-day-trial/).
+At FirePress we do one thing and we do it with our whole heart: we host **fully managed Ghost’s websites**. The idea behind FirePress is to empower freelancers and small organizations to be able to build an outstanding mobile-first website. Start your [free trial here](https://play-with-ghost.com/ghost-themes/free-10-day-trial/).
 
 We offer **workshops** where participants ends up with a website/blog they can easily operate themselves. Details are coming soon. It is available in those cities:
 
 - Montréal - Canada
+- Québec City - Canada
 - Toronto - Canada
 - New-York - USA
-- Québec City - Canada
 
 Because we believe your website should speak up in your name, we consider our mission completed once your site has become [your impresario](https://play-with-ghost.com/ghost-themes/why-launching-your-next-website-with-firepress/).
 
