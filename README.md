@@ -16,20 +16,6 @@
 - **Log in credentials** ==> https://play-with-ghost.com/ghost-themes/firepress-klimax2-for-barbershops/
 - **Admin Panel** ==> https://play-with-ghost.com/live-demo-firepress-klimax2-for-barbershops/ghost/
 
-## Screenshots
-
-![firepress_klimax2_10](https://user-images.githubusercontent.com/6694151/45888951-44604b80-bd8d-11e8-9b8a-6fd8dd6052b8.jpg)
-
-<br>
-
-![firepress_klimax2_11](https://user-images.githubusercontent.com/6694151/45888952-44604b80-bd8d-11e8-9845-68627d6dc573.jpg)
-
-<br>
-
-![firepress_klimax2_12](https://user-images.githubusercontent.com/6694151/45889214-d9fbdb00-bd8d-11e8-8c4f-540c03a0d5b1.jpg)
-
-<br>
-
 
 ## Why fork this Ghost Theme ?
 
@@ -85,3 +71,18 @@ Because we believe your website should speak up in your name, we consider our mi
 - Pascal Andy’s [« now page »](https://pascalandy.com/blog/now/)
 - Follow me on [Twitter](https://twitter.com/askpascalandy)
 - Find more Ghost Themes on [play-with-ghost.com](https://play-with-ghost.com/)
+
+
+## Screenshots
+
+![firepress_klimax2_10](https://user-images.githubusercontent.com/6694151/45888951-44604b80-bd8d-11e8-9b8a-6fd8dd6052b8.jpg)
+
+<br>
+
+![firepress_klimax2_11](https://user-images.githubusercontent.com/6694151/45888952-44604b80-bd8d-11e8-9845-68627d6dc573.jpg)
+
+<br>
+
+![firepress_klimax2_12](https://user-images.githubusercontent.com/6694151/45889214-d9fbdb00-bd8d-11e8-8c4f-540c03a0d5b1.jpg)
+
+<br>
