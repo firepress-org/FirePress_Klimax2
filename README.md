@@ -5,17 +5,17 @@
 
 **FirePress_Klimax2** is a free and responsive Ghost theme (*a template if you prefer*) made for [Ghost](https://ghost.org/). 
 
-**Compatibility** — The Ghost’s engine must be: `Ghost >= 2.0.0`.
+**Compatibility** — This theme works on `>= 2.0.0`.
 
 **What is Ghost?** — Ghost is an open source software that lets you create your website with a blog. See the [FAQ section](https://play-with-ghost.com/ghost-themes/faq/#what-is-ghost) for more details.
 
-##  Live Demo (online)
+##  Live Demo
 
-play-with-ghost.com is a playground to learn about Ghost. You can see Ghost themes and login into the **admin panel** by using the available credentials. In short, you can try Ghost on the spot without having to sign-up!
+**play-with-ghost.com** is a playground to learn about Ghost. You can **see** Ghost themes and **login** into the admin panel by using the available credentials. In short, you can try Ghost on the spot without having to sign-up!
 
 - **Live Demo** ==> https://play-with-ghost.com/live-demo-firepress-klimax2-for-barbershops/
 - **Admin Panel** ==> https://play-with-ghost.com/live-demo-firepress-klimax2-for-barbershops/ghost/
-- Use theses **credits to log in** ==> https://play-with-ghost.com/ghost-themes/firepress-klimax2-for-barbershops/
+- Use these **credits to log in** ==> https://play-with-ghost.com/ghost-themes/firepress-klimax2-for-barbershops/
 
 ## Screenshots
 
@@ -33,7 +33,7 @@ play-with-ghost.com is a playground to learn about Ghost. You can see Ghost them
 
 ## Why fork this Ghost Theme ?
 
-**Enhancements** — This theme has been enhanced to feature some elements that are not present in the original code. IMHO, these are essential enhancements that are hard to live without:
+**Enhancements** — This theme has been enhanced to feature some elements that are not present in the original theme. IMHO, these are essential enhancements that are hard to live without:
 
 - **Buttons** (unicorn UI)
 - **Icons** (Font Awesome 5)
