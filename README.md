@@ -26,7 +26,7 @@
 	- **Grid** (great to make pricing table)
 - **Drop-in replacement** — No special tweaks to do. It will work out of the box.
 - **Code Injection** — Take a look those snippets in this [Git repo](https://github.com/firepress-org/Code-Injection-Ghost). It’s an easy way to customize your theme.
-- **Curated** — This theme was carefully selected out of hundreds of Ghost Themes. See more of them in our [Ghost-Theme-Curated-Collection ](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go) or [by tags on Github](https://github.com/topics/firepress-ghost-theme).
+- **Curated** — This theme was carefully selected out of hundreds of Ghost Themes. See more of them in our [Ghost-Theme-Curated-Collection ](https://github.com/firepress-org/Ghost-Theme-Curated-Collection/tree/master/01_go) repo, or [by tags on Github](https://github.com/topics/firepress-ghost-theme).
 
 
 ## Contributing
