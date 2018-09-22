@@ -1,7 +1,7 @@
 {
     "name": "FirePress_Klimax2",
     "description": "This Ghost theme supported by FirePress. It's part of the Ghost-Theme-Curated-Collection. Find it at https://bit.ly/2HB6Fyu",
-    "demo": "https://demo.ghost.io",
+    "demo": "https://play-with-ghost.com/ghost-themes/firepress-klimax2-for-barbershops/",
     "version": "2.6.2",
     "engines": {
         "ghost": ">=2.0.0"
