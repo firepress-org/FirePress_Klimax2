@@ -15,7 +15,6 @@
 - **Live Demo** ==> https://play-with-ghost.com/live-demo-firepress-klimax2-for-barbershops/
 - **Log in credentials** ==> https://play-with-ghost.com/ghost-themes/firepress-klimax2-for-barbershops/
 - **Admin Panel** ==> https://play-with-ghost.com/live-demo-firepress-klimax2-for-barbershops/ghost/
-- 
 
 ## Screenshots
 
