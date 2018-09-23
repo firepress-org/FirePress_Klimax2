@@ -50,8 +50,8 @@ Here’s how I suggest you go about proposing a change to this project:
 
 ## License
 
-- This software is under the **MIT** license. Information at https://ghost.org/license/
-- This fork is under the **GNU** license. Information at https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE
+- This fork is under the **GNU** license. Details at https://github.com/pascalandy/GNU-GENERAL-PUBLIC-LICENSE
+- The Ghost’s software, is under the **MIT** license. Details at https://ghost.org/license/
 
 
 ## FirePress Hosting
