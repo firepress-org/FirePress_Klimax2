@@ -1,6 +1,6 @@
 {
     "name": "FirePress_Klimax2",
-    "description": "This Ghost theme supported by FirePress. It's part of the Ghost-Theme-Curated-Collection. Find it at https://bit.ly/2HB6Fyu",
+    "description": "This Ghost theme is supported by FirePress. Find more free themes at https://github.com/topics/firepress-ghost-theme",
     "demo": "https://play-with-ghost.com/ghost-themes/firepress-klimax2-for-barbershops/",
     "version": "2.6.2",
     "engines": {
@@ -21,6 +21,11 @@
         "email": "hello@ghost.org",
         "url": "https://ghost.org"
     },
+    "maintainer": {
+      "name": "Pascal Andy",
+      "email": "relations@firepress.org",
+      "url": "https://play-with-ghost.com/"
+    },
     "gpm": {
         "type": "theme",
         "categories": [
@@ -31,13 +36,14 @@
     "keywords": [
         "ghost",
         "theme",
-        "ghost-theme"
+        "ghost-theme",
+		"FirePress"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Casper.git"
+        "url": "https://github.com/firepress-org/FirePress_Klimax2.git"
     },
-    "bugs": "https://github.com/TryGhost/Casper/issues",
+    "bugs": "https://github.com/firepress-org/FirePress_Klimax2/issues",
     "contributors": "https://github.com/TryGhost/Casper/graphs/contributors",
     "devDependencies": {
         "autoprefixer": "6.3.6",
