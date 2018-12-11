@@ -8,7 +8,7 @@ https://trello.com/b/0fCwwzqc/firepress-public-roadmap
 # 2.7.1
 
 - Following various updates made by the Ghost Fondation
-- 
+
 
 # 2.1.10F — — — — — — — — — —
   
