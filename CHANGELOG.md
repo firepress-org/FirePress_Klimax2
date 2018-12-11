@@ -3,28 +3,18 @@
 FirePress Public Roadmap:
 https://trello.com/b/0fCwwzqc/firepress-public-roadmap
 
-## 0.00 template — — — — — — — — — —
+---
 
-**🎨 User Story**
-- As an OpsHero, I want to 0o0o
+# 2.7.1
 
-**🚀 Major feature**
+- Following various updates made by the Ghost Fondation
+- 
 
-**item** — blabla
-
+# 2.1.10F — — — — — — — — — —
+  
 **⚡️ Minor Feature**
 
-**item** — blabla
-
-**🐛 Bugs**
-
-**item** — blabla
-
-**⚠️ Warning**
-
-**item** — blabla
-
----
+- Completly re-write of the README
 
 # 2.1.10F — — — — — — — — — —
   
@@ -77,3 +67,26 @@ fix a typo in package.json
 # 2.1.9B + 2.1.9 — — — — — — — — — —
 
 **⚡️ Minor Feature **— Following official image updates
+
+
+## 0.00 template — — — — — — — — — —
+
+**🎨 User Story**
+- As an OpsHero, I want to 0o0o
+
+**🚀 Major feature**
+
+**item** — blabla
+
+**⚡️ Minor Feature**
+
+**item** — blabla
+
+**🐛 Bugs**
+
+**item** — blabla
+
+**⚠️ Warning**
+
+**item** — blabla
+
