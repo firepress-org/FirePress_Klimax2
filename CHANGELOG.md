@@ -5,9 +5,12 @@ https://trello.com/b/0fCwwzqc/firepress-public-roadmap
 
 ---
 
+# 2.9.2
+- Following the latest updates made by the Ghost Fondation
+
 # 2.7.1
 
-- Following various updates made by the Ghost Fondation
+- Following the latest updates made by the Ghost Fondation
 - font awesome 5.5.0
 
 # 2.1.10F
