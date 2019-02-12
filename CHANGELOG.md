@@ -5,6 +5,11 @@ https://trello.com/b/0fCwwzqc/firepress-public-roadmap
 
 ---
 
+# 2.9.3
+
+- 28a2b527 major readme update
+- 15c1506e update to font awesome v5.7.1
+
 # 2.9.2
 - Following the latest updates made by the Ghost Fondation
 
