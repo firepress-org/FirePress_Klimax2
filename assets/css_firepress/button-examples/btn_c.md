@@ -82,4 +82,3 @@
 <a class="btn_c small pink gradient" href="https://firepress.org/">Click Here ></a>
 <a class="btn_c small blueGray gradient" href="https://firepress.org/">Click Here ></a>
 <a class="btn_c small blue gradient" href="https://firepress.org/">Click Here ></a>
-
