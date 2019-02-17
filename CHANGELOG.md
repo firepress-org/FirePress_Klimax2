@@ -1,15 +1,39 @@
 # CHANGELOG.md - FirePress Klimax 2
-Based on this template https://gist.github.com/pascalandy/af709db02d3fe132a3e6f1c11b934fe4 All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+All notable changes to this project will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/) and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 FirePress Public Roadmap:
 https://trello.com/b/0fCwwzqc/firepress-public-roadmap
 
+Based on this template:
+https://gist.github.com/pascalandy/af709db02d3fe132a3e6f1c11b934fe4
+
 ---
 
-# 2.9.4
+## [0.0.0] - 1910-12-30
 
-### Changed or fixed
+### 🚀 Added (new feature) 
+### ⚡️ Updates
+### 🐛 Bug fixed
+### 🛑 Removed
+### 🔑 Security
+
+---
+
+
+## 2.9.5
+### 🐛 Bug fixed
+- Button style #1 are fixed
+
+### 🛑 Deprecated / Removed
+- Button style #2 is out
+
+### ⚡️ Updates
+- now using CHANGELOG template
+
+
+## 2.9.4
+### ⚡️ Updates
 
 Main update is regarding CSS issues around buttons
 
@@ -26,96 +50,79 @@ Main update is regarding CSS issues around buttons
 - 56af2ce3 udpate custom buttons
 - c10dc213 from gist
 
-# 2.9.3
 
+## 2.9.3
+### ⚡️ Updates
 - 28a2b527 major readme update
 - 15c1506e update to font awesome v5.7.1
 
-# 2.9.2
+
+## 2.9.2
+### ⚡️ Updates
 - Following the latest updates made by the Ghost Fondation
 
-# 2.7.1
+from this commit: https://github.com/TryGhost/Casper/commit/40ae0e97f9da1ef0814eeea06bc53f882d08e820
 
+
+## 2.7.1
+### ⚡️ Updates
 - Following the latest updates made by the Ghost Fondation
 - font awesome 5.5.0
 
-# 2.1.10F
-  
-**⚡️ Minor Feature**
+
+## 2.1.10F
+### ⚡️ Updates
 
 - Completly re-write of the README
 
-# 2.1.10F
-  
-**⚡️ Minor Feature**
+
+## 2.1.10F
+### ⚡️ Updates
 
 - Completly re-write of the README
 
-# 2.1.10F
-  
-**⚡️ Minor Feature**
+
+## 2.1.10F
+### ⚡️ Updates
 
 - minify screen-min.css
 
-# 2.1.10D
 
-**⚡️ Minor Feature**
-
-- minify screen.css
-
-
-# 2.1.10D
-
-**⚡️ Minor Feature**
+## 2.1.10D
+### ⚡️ Updates
 
 - minify screen.css
 
 
-# 2.1.10D
+## 2.1.10D
+### ⚡️ Updates
 
-**🐛 Bugs**
+- minify screen.css
 
-fix a typo in package.json
 
-# 2.1.10C
+## 2.1.10D
+### 🐛 Bug fixed
 
-**🚀 Major feature**
+- fix a typo in package.json
+
+
+## 2.1.10C
+### ⚡️ Updates
 
 - removed bulma css package
 - added unicorn_ui package
 - default.hbs is now more standard
 
-# 2.1.10B
+
+## 2.1.10B
+### ⚡️ Updates
+
+- **Fontawesome** — update to v5
 
 
-### 🚀 Major feature
+## 2.1.9B + 2.1.9
+### ⚡️ Updates
 
-**Fontawesome** — update to v5
+— Following official image updates
 
-
-# 2.1.9B + 2.1.9
-
-**⚡️ Minor Feature **— Following official image updates
-
-
-## 0.00 template — — — — — — — — — —
-
-**🎨 User Story**
-- As an OpsHero, I want to 0o0o
-
-**🚀 Major feature**
-
-**item** — blabla
-
-**⚡️ Minor Feature**
-
-**item** — blabla
-
-**🐛 Bugs**
-
-**item** — blabla
-
-**⚠️ Warning**
-
-**item** — blabla
 
