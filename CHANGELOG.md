@@ -14,15 +14,20 @@ https://gist.github.com/pascalandy/af709db02d3fe132a3e6f1c11b934fe4
 
 ### 🚀 Added (new feature) 
 ### ⚡️ Updates
-### 🐛 Bug fixed
+### 🐛 Bug fix
 ### 🛑 Removed
 ### 🔑 Security
 
 ---
 
+## 2.9.6
+### 🐛 Bug fix
+- fixed box-shadow at the source / no need for Code injection
+- apply for buttons style 1 & 2
+
 
 ## 2.9.5
-### 🐛 Bug fixed
+### 🐛 Bug fix
 - Button style #1 are fixed
 
 ### 🛑 Deprecated / Removed
