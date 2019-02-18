@@ -12,13 +12,21 @@ https://gist.github.com/pascalandy/af709db02d3fe132a3e6f1c11b934fe4
 
 ## [0.0.0] - 1910-12-30
 
-### 🚀 Added (new feature) 
 ### ⚡️ Updates
-### 🐛 Bug fix
+### 🚀 Added (new feat.)
+### 🐛 Fix bug
 ### 🛑 Removed
 ### 🔑 Security
 
 ---
+
+## 2.9.7
+### ⚡️ Updates
+- cfb365d3 Major update for highlight-js: Added agate.css to better control how it renders
+- 17cfceec update README
+### 🐛 Bug fix
+- 7e9500f1 Fix button CSS styles. Makes them more universal
+
 
 ## 2.9.6
 ### 🐛 Bug fix
