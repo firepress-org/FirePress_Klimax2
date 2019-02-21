@@ -8,10 +8,7 @@ https://trello.com/b/0fCwwzqc/firepress-public-roadmap
 Based on this template:
 https://gist.github.com/pascalandy/af709db02d3fe132a3e6f1c11b934fe4
 
----
-
-## [0.0.0] - 1910-12-30
-
+## 0.0.0 status template
 ### ⚡️ Updates
 ### 🚀 Added (new feat.)
 ### 🐛 Fix bug
@@ -19,6 +16,12 @@ https://gist.github.com/pascalandy/af709db02d3fe132a3e6f1c11b934fe4
 ### 🔑 Security
 
 ---
+
+
+## 2.9.8
+### 🐛 Fix bug
+- 736d029e Fix bug with embeds overflowing content width
+following from source https://github.com/TryGhost/Casper/commit/c8c63d170c7b3421f301e6e367cff492fa2eeb16
 
 ## 2.9.7
 ### ⚡️ Updates
